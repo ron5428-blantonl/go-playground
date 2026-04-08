@@ -6,3 +6,6 @@ Personal development log — notes, findings, and ongoing work.
 - Added .editorconfig for consistent formatting
 - Updated .gitignore to exclude build artifacts
 - Documented config options
+
+## 2026-04-08
+- Pinned dependency versions for reproducibility
