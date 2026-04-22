@@ -14,3 +14,8 @@ Personal development log — notes, findings, and ongoing work.
 - Verified API endpoint response schema
 - Resolved TODO items from previous session
 - Added basic usage examples to README
+
+## 2026-04-22
+- Addressed feedback from self code review
+- Added basic usage examples to README
+- Improved error handling in edge cases
