@@ -9,3 +9,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-04-08
 - Pinned dependency versions for reproducibility
+
+## 2026-04-22
+- Verified API endpoint response schema
+- Resolved TODO items from previous session
+- Added basic usage examples to README
